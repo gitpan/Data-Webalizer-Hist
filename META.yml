@@ -1,0 +1,12 @@
+---
+name: Data-Webalizer-Hist
+version: 0.01
+author:
+  - Yoran Heling <yorhel@cpan.org>
+abstract: Perl module to parse the webalizer.hist-file.
+license: perl
+provides:
+  Data::Webalizer::Hist:
+    file: lib/Data/Webalizer/Hist.pm
+    version: 0.01
+generated_by: Module::Build version 0.2611
